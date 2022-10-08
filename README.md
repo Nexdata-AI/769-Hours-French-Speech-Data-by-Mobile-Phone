@@ -1,8 +1,10 @@
 # 769-Hours-French-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/952
+
 
 ## Description
 The data volumn is 769 hours and is recorded by 1623 French native speakers. The recording text is designed by linguistic experts, which covers general interactive, in-car and home category. The texts are manually proofread with high accuracy. Recording devices are mainstream Android phones and iPhones.
+
+For more details, please refer to the link: https://bit.ly/3dJ9vDM
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ French
 
 ## Application scenarios
 speech recognition; voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
